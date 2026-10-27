@@ -4,16 +4,5 @@
 **Professor:** Alexandre de Oliveira  
 
 **Integrantes da Dupla:**
-- Nome Integrante 1 - RA: XXXXXXX
-- Nome Integrante 2 - RA: XXXXXXX
-
----
-
-## 🚀 Como Executar os Projetos
-
-### 1. Java
-Entrar na pasta e executar os comandos de compilação:
-```bash
-cd java
-javac Main.java
-java Main
+- Nome Integrante 1 - RA: Wellington Costa Oliveira 1242022422
+- Nome Integrante 2 - RA: rian oliveira dos santos 126221442020
