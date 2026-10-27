@@ -1,5 +1,4 @@
-# Trabalho Avaliativo: Um algoritmo, diferentes linguagens: listas, arrays e
-repetições
+# Trabalho Avaliativo: Um algoritmo, diferentes linguagens
 
 **Unidade Curricular:** Algoritmos e Programação  
 **Professor:** Alexandre de Oliveira  
