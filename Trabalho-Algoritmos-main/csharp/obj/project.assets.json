@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/xeaat/Área de trabalho/Trabalho-Algoritmos-main/csharp/csharp.csproj",
+      "projectUniqueName": "/home/xeaat/Trabalho-Algoritmos/Trabalho-Algoritmos-main/csharp/csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "/home/xeaat/Área de trabalho/Trabalho-Algoritmos-main/csharp/csharp.csproj",
+      "projectPath": "/home/xeaat/Trabalho-Algoritmos/Trabalho-Algoritmos-main/csharp/csharp.csproj",
       "packagesPath": "/home/xeaat/.nuget/packages/",
-      "outputPath": "/home/xeaat/Área de trabalho/Trabalho-Algoritmos-main/csharp/obj/",
+      "outputPath": "/home/xeaat/Trabalho-Algoritmos/Trabalho-Algoritmos-main/csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/xeaat/.nuget/NuGet/NuGet.Config"
