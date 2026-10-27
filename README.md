@@ -4,5 +4,5 @@
 **Professor:** Alexandre de Oliveira  
 
 **Integrantes da Dupla:**
-- Nome Integrante 1 - RA: rian oliveira dos santos 126221443020
+- Nome Integrante 1 - RA: Rian oliveira dos santos 126221443020
 - Nome Integrante 2 - RA: Wellington Costa Oliveira 1242022422
