@@ -17,14 +17,18 @@ Entrar na pasta e executar os comandos de compilação:
 cd java
 javac Main.java
 java Main
+```
 
 ### 2. C# (.NET)
 Entrar na pasta e executar via .NET CLI:
 ```Bash
 cd csharp
 dotnet run`
+```
 
 ### 3. Rust
+Entrar na pasta e executar via Cargo:
 ```Bash
 cd rust
 cargo run
+```
