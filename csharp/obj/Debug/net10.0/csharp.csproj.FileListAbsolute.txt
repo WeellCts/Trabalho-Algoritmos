@@ -1,0 +1,15 @@
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\bin\Debug\net10.0\csharp.exe
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\bin\Debug\net10.0\csharp.deps.json
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\bin\Debug\net10.0\csharp.runtimeconfig.json
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\bin\Debug\net10.0\csharp.dll
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\bin\Debug\net10.0\csharp.pdb
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.AssemblyInfoInputs.cache
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.AssemblyInfo.cs
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.csproj.CoreCompileInputs.cache
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.sourcelink.json
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.dll
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\refint\csharp.dll
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.pdb
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\csharp.genruntimeconfig.cache
+C:\Trabalho-Algoritmos\Trabalho-Algoritmos\csharp\obj\Debug\net10.0\ref\csharp.dll
